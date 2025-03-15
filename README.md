@@ -4,7 +4,7 @@
 
 Library Management System adalah aplikasi web sederhana yang memungkinkan pustakawan untuk mengelola buku, pengunjung untuk memesan berbagai buku, serta fitur tambahan seperti manajemen stok, notifikasi pengembalian buku, dan lainnya.
 
-Aplikasi ini dirancang untuk membantu perpustakaan dalam mengelola koleksi buku secara lebih efisien dan memudahkan pengunjung dalam meminjam serta mengembalikan buku dengan sistem yang lebih tertata.
+Web Aplikasi ini dirancang untuk membantu perpustakaan dalam mengelola koleksi buku secara lebih efisien dan memudahkan pengunjung dalam meminjam serta mengembalikan buku dengan sistem yang lebih tertata.
 
 ✨ Fitur Utama:
 - Manajemen Buku: Tambah, edit, dan hapus data buku.
