@@ -1,0 +1,5 @@
+[15/3/2025] Install Laravel pertama kali
+
+Next Step:
+1. Menentukan fitur-fitur utamanya.
+2. Mencari template yang cocok.
